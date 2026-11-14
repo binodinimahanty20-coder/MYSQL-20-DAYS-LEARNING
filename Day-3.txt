@@ -1,4 +1,4 @@
-SQL Commands
+ SQL Commands
 ==================
 SQL (Structured Query Language) commands are broadly classified into five main categories based on their functionality: DDL, DML, DQL, DCL, and TCL. Each category and every command within it is explained below with its purpose and usage.
 Command
