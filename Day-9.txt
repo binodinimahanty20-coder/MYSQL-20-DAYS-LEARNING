@@ -1,5 +1,4 @@
 
-
 NULL Operator
 What are NULL Operators?
 NULL Operators are used to check whether a column contains a NULL value (missing or unknown data).
