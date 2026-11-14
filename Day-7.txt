@@ -1,4 +1,4 @@
-₹Constraints in MySQL
+ ₹Constraints in MySQL
 What are Constraints?
 Constraints are rules applied to table columns in MySQL to ensure that only valid and accurate data is stored in the database.
 In simple words:
