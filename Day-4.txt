@@ -1,4 +1,4 @@
-Day-4
+ Day-4
 mysql> USE PFS8;
 Database changed
 mysql> CREATE TABLE EMPLOYEES(
