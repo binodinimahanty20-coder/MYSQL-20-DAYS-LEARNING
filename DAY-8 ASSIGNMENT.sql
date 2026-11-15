@@ -1,4 +1,4 @@
-USE DA8;
+ USE DA8;
 drop table products;
 CREATE TABLE Products (
  id INT,
