@@ -1,4 +1,4 @@
-USE DA8;
+ USE DA8;
 CREATE TABLE employees (
     emp_id INT PRIMARY KEY,
     emp_name VARCHAR(100),
