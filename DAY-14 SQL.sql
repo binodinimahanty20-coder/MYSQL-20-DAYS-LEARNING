@@ -1,4 +1,4 @@
-use PSF8;
+ use PSF8;
 show tables;
 
 CREATE TABLE Customers (
