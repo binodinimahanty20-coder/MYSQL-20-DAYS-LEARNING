@@ -1,4 +1,4 @@
-use pfs8;
+ use pfs8;
 
 select e.emp_id,e.name,d.department_name
 from employees e
