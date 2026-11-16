@@ -1,4 +1,4 @@
-use companydb;
+ use companydb;
 DROP TABLE EMPLOYEES;
 CREATE TABLE Employees (
 	emp_id INT PRIMARY KEY,
