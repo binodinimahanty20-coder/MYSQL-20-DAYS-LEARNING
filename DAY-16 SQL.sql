@@ -1,4 +1,4 @@
-use psf8;
+ use psf8;
 show tables;
 drop table students;
 
